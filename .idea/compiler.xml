@@ -23,11 +23,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="webapp" />
+        <module name="FizzBuzz" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="webapp" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

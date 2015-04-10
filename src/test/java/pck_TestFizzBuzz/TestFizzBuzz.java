@@ -31,6 +31,7 @@ public class TestFizzBuzz {
         Assert.assertEquals(actual, expected);
     }
 
+    /*
     @Test
     public void testRetournerFizzAvecTriple() throws Exception {
         Random rand = new Random();
@@ -41,6 +42,7 @@ public class TestFizzBuzz {
         String expected = "Fizz";
         Assert.assertEquals(actual,expected);
     }
+    */
 
     @Test
     public void testRetournerBuzzAvec5() throws Exception {
